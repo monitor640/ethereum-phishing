@@ -1,0 +1,6 @@
+/.venv/
+*.pkl
+*.pt
+data_simple.pt
+MulDiGraph.pkl
+phishing_subgraph.pkl
